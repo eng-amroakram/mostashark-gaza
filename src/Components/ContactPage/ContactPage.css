@@ -1,0 +1,97 @@
+.contact-page {
+  background-color: #f4f1e1 ;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 60px 0;
+}
+
+.ContactPart {
+  border: 5px solid #3A506B;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+.contact-btn{
+  background-color:#3A506B!important;
+}
+
+.contact-title {
+  color: #3A506B;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.contact-text {
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.contact-buttons .contact-btn {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 12px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.whatsapp {
+  background-color: #25D366;
+  border: none;
+  color: white;
+}
+
+.call {
+  background-color: #3A506B;
+  border: none;
+  color: white;
+}
+
+.email {
+  background-color: #D4AF37;
+  border: none;
+  color: black;
+}
+
+.info-box {
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.info-box h4 {
+  color: #D4AF37;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.info-box p {
+  color: #333;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+.social-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.social-icon {
+  width: 25px;
+  height: 25px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.social-icon:hover {
+  transform: scale(1.15);
+}
+

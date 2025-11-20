@@ -1,0 +1,32 @@
+
+body{
+   font-family: 'Reem Kufi', sans-serif !important; /* أو 'Almarai', sans-serif */
+  font-weight: 400 !important;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+body[dir="rtl"] {
+  text-align: right;
+ 
+}
+
+body[dir="ltr"] {
+  text-align: left !important;
+  
+  
+}
+
+/* العناوين */
+h1 {
+font-family: 'Cairo', sans-serif !important;
+  font-weight: 700 !important;
+}
+ h2, h3, h4, h5, h6{
+font-family: 'Cairo', sans-serif !important;
+   font-weight: 600 !important;
+}
+
+
+

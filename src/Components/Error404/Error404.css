@@ -1,0 +1,37 @@
+
+  
+
+  .Error404{
+      background-color:palegoldenrod;
+  
+  }
+ 
+  .Error404 h1{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+  }
+  .Error404 h2{
+    text-align: center !important;
+  }
+  .Error404 P{
+    text-align: center;
+  }
+  .button-Error404{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .Back{
+    background-color:#D4AF37;
+    color: #fff;
+    margin: 30px 10px 30px 0px;
+    border-radius: 4px;
+    height: 40px;
+    border: none;
+  }
+
+   
+  
+  

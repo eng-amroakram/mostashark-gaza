@@ -1,0 +1,197 @@
+.about-section {
+  background-color: #fff;
+}
+.rtl .about-details {
+  text-align: right;
+}
+.rtl .values ul {
+  text-align: right;
+  padding-right: 20px;
+}
+.about-details {
+  text-align: left;
+}
+.icon-left {
+  margin-right: 2px;
+  margin-left: 0;
+  font-size: 25px !important;
+
+}
+.icon-right {
+  margin-left: 2px;
+  margin-right: 0;
+  font-size: 25px !important;
+}
+.img-all {
+  display: flex;
+  flex-direction: column;
+}
+.img-1, .img-2, .img-3 {
+  width: 100%;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border-radius: 20%;
+}
+.num_20 {
+  background-color: #d8c281;
+  border: 2px solid var(--btn-color);
+  width: 100%;
+  height: 200px;
+  border-radius: 20%;
+  margin-top: 20px;
+}
+.num_20 h3 {
+  font-size: 130px;
+  text-align: center;
+  color: #000033;
+}
+.num_20 h4 {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: #000033;
+  margin: -20px 0 40px 0 !important;
+}
+.title {
+  font-size: 32px;
+  font-weight: 800;
+  color: #001f3f;
+  margin-bottom: 20px;
+}
+.about-details p {
+  font-size: 1.05rem;
+  color: #4A4A4A;
+  line-height: 1.8;
+}
+.about-box {
+  background-color: #e9f6ff;
+  border-radius: 10px;
+  padding: 15px 20px;
+  margin-top: 15px;
+}
+.values ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+.values li {
+  background: #f0f8ff;
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-weight: 600;
+  color: #0b3d91;
+  border: 1px solid #0b3d91;
+  transition: all 0.3s ease;
+}
+.values li:hover {
+  background-color: #0b3d91;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .num_20 {
+    height: 120px;
+    margin-top: 0px;
+  }
+  .num_20 h3 {
+    font-size: 50px;
+    padding-top: 20px;
+  }
+  .num_20 h4 {
+    font-size: 10px;
+    margin: 0 !important;
+  }
+
+  .about-details {
+    margin-top: 20px;
+  }
+  .about-details .title {
+    text-align: center;
+   font-size: 22px;
+  }
+  .about-details p {
+    font-size: 15px;
+  }
+  .values {
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+
+
+/* الشاشات المتوسطة من 567px إلى 992px */
+@media (min-width: 567px) and (max-width: 992px) {
+
+  
+  .about-details {
+    text-align: center; 
+    margin-top: 20px;
+  }
+
+  .about-details .title {
+    font-size: 26px;
+  }
+
+  .about-details p {
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  
+  .icon-left, .icon-right {
+    font-size: 22px !important;
+  }
+
+  /* الصور — ترتيب أفضل للشاشات المتوسطة */
+  .img-all {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .img-1,
+  .img-2,
+  .img-3 {
+    width: 90%;
+    margin: auto;
+    border-radius: 18%;
+  }
+
+  
+  .num_20 {
+    width: 90%;
+    height: 150px;
+    border-radius: 20%;
+    margin: 20px auto 0 auto;
+  }
+
+  .num_20 h3 {
+    font-size: 80px;
+    padding-top: 10px;
+  }
+
+  .num_20 h4 {
+    font-size: 14px;
+    margin: -10px 0 0 0 !important;
+  }
+
+  
+  .values {
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .values li {
+    font-size: 14px;
+    padding: 6px 12px;
+  }
+}
+

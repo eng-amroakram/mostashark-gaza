@@ -1,0 +1,124 @@
+.services-section {
+  position: relative;
+  width: 100%;
+  background-color: #f8f8ff;
+  background-image: url("../../assets/unnamed111.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden; 
+ 
+}
+
+.services-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(10px); 
+  transform: scale(1.1); 
+  z-index: 0; 
+}
+
+.section-title {
+  position: relative;
+  text-align: center;
+  margin-bottom: 50px;
+  z-index: 1;
+}
+
+.section-title h2 {
+  font-size: 36px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  color: #0b3d91;
+}
+
+.section-title p {
+  color: #000033;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+
+.card-contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px 0;
+  height: 280px; 
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-contact:hover {
+  background: #3A506B;
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.card-contact:hover .icon {
+  color: #fff;
+}
+
+.card-contact:hover h3,
+.card-contact:hover p {
+  color: #fff;
+}
+
+.icon {
+  font-size: 40px;
+  color: #000033;
+  margin-bottom: 15px;
+}
+
+.card-contact h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.card-contact p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.7;
+ 
+}
+
+.service-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 25px;
+  background: linear-gradient(135deg, #00c6ff, #000033);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 123, 131, 0.15);
+}
+
+.service-btn:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,123,131,0.4);
+  background: linear-gradient(135deg,  #000033, #00c6ff);
+}
+
+/* ======= Responsive ======= */
+@media (max-width: 768px) {
+  .card-contact {
+    height: auto;
+  }
+
+  .section-title h2 { 
+    text-align: center; 
+  }
+}

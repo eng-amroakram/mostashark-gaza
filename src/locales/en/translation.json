@@ -1,0 +1,511 @@
+{
+ 
+   "about_section": {
+    "title": "About Us – Your Real Estate Consultant | Gaza",
+    "intro1": "At Your Real Estate Consultant – Gaza, we are a specialized office combining real estate, legal, engineering, and administrative expertise to provide you with a complete experience that makes searching, selling, or investing in real estate easy, clear, and secure",
+    "intro2": "We believe real estate is not just a building… it’s a life investment. That’s why our goal is to be the bridge between your real estate dreams and reality with confidence and transparency",
+    "mission_title": "Our Mission",
+    "mission_desc": "Providing smart and modern real estate solutions and consultations based on credibility and expertise to serve individuals and investors in the Gaza Strip",
+    "vision_title": "Our Vision",
+    "vision_desc": "To be the first destination for anyone looking for reliable real estate and comprehensive real estate services in Palestine",
+    "values_title": "Our Values",
+    "values_list": ["Transparency","Honesty","Professionalism","Speed","God’s satisfaction and lawful earnings"],
+    "experience_year": "25",
+    "experience_text": "Years Experience"
+  },
+
+    "gaza_gallery": {
+    "title": "Gaza Photos Before and After the War",
+    "before": "Before the War",
+    "after": "After the War"
+  },
+  
+  "footer": {
+    "title": "Mostasharak Alaqary",
+    "description": "A website specialized in facilitating real estate buying, selling, and renting processes, providing a reliable and easy experience to find your ideal property.",
+    "contact": "Call Us",
+    "email": "Email",
+    "quick_links_title": "Quick Links",
+    "home": "Home",
+    "faq": "FAQ",
+    "services": "Services",
+    "contact_us": "Contact Us",
+    "our_services_title": "Our Services",
+    "service_1": "Buying and Selling Properties",
+    "service_2": "Marketing Properties",
+    "service_3": "Property Evaluation",
+    "service_4": "Real Estate Consulting",
+    "service_5": "Property Management",
+    "subscribe_title": "Subscribe to Newsletter",
+    "email_placeholder": "Enter your email",
+    "subscribe_button": "Subscribe Now",
+    "rights": "All rights reserved for"
+  },
+  
+  "services_section": {
+    "title": "Our Services",
+    "description": "We provide everything you need to make the best real estate decision with confidence and peace of mind",
+    "read_more": "Read More",
+    "no_data": "No data available",
+    "cards": {
+      "1": {
+        "title": "Real Estate Buying, Selling, and Marketing",
+        "description": "We help you buy, sell, and market your properties easily and securely to achieve the best results in less time"
+      },
+      "2": {
+        "title": "Property Evaluation",
+        "description": "We assess the true value of the property so you can make confident and clear decisions"
+      },
+      "3": {
+        "title": "Property Management",
+        "description": "We provide full management services for your property to ensure maximum returns with minimal effort"
+      },
+      "4": {
+        "title": "Real Estate Consulting",
+        "description": "Our experts offer the perfect advice to help you make confident and well-informed decisions"
+      },
+      "5": {
+        "title": "Engineering Planning",
+        "description": "We provide comprehensive engineering planning services for real estate and residential projects, with precise designs to meet client needs"
+      },
+      "6": {
+        "title": "Contract Documentation & Registration",
+        "description": "We offer full services for real estate contract documentation and issuing replacements quickly and accurately"
+      },
+      "7": {
+        "title": "Surveying & Location Determination",
+        "description": "Our team provides surveying and location services with the latest technology and highest accuracy"
+      },
+      "8": {
+        "title": "Real Estate Investment & Financing",
+        "description": "We help you invest your money in profitable real estate projects with safe and flexible financing solutions"
+      },
+      "9": {
+        "title": "Arbitration & Dispute Resolution",
+        "description": "We provide fair legal and arbitration solutions to resolve real estate disputes quickly and professionally"
+      },
+      "10": {
+        "title": "Contracting Services",
+        "description": "We provide comprehensive contracting services for all residential and commercial projects with high quality and professionalism"
+      },
+      "11": {
+        "title": "Electronic Contracting",
+        "description": "We offer electronic contracting solutions for signing contracts quickly and securely without paper review"
+      },
+      "12": {
+        "title": "Cloud Storage for Contracts",
+        "description": "Store contracts electronically on the cloud to ensure security and easy access anytime"
+      }
+    }
+  },
+   "hero": {
+    "alt_img": "Hero section image",
+    "alt_logo": "Mostasharak Alaqary Logo",
+    "title": "Mostasharak Alaqary",
+    "subtitle": "Trust in the world of real estate"
+  },
+  
+  "contact": {
+    "title": "Contact Us",
+    "description": "We aim to provide you with the best real estate service. Choose your preferred method of contact and we will respond as soon as possible.",
+    "whatsapp_text": "Contact via WhatsApp",
+    "whatsapp_link": "https://wa.me/970567465459?text=Hello,%20I%20would%20like%20to%20inquire%20about%20your%20real%20estate%20services.",
+    "call_text": "Direct Call",
+    "phone_link": "tel:+972597782508",
+    "email_text": "Send Email",
+    "email_link": "mailto:mostasharakalaqary255@gmail.com?subject=Real Estate Inquiry&body=Hello,%20I%20would%20like%20to inquire about real estate.",
+    "info_title": "Contact Information",
+    "info_phone": "+970 56-746-5459",
+    "info_email": "mostasharakalaqary255@gmail.com",
+    "info_location": "Gaza - Palestine",
+    "social": {
+      "facebook": "https://www.facebook.com/share/14LxpfqSdPb/",
+      "instagram": "https://www.instagram.com/mostasharak_alaqary?igsh=MTRvZ3FremgybXM2eA==",
+      "twitter": "https://x.com/mostasharak_?s=09"
+    }
+  },
+  
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What is the goal of \"Mostasharak Alaqary\" website?",
+        "answer": "Our website aims to provide reliable information about the real estate market and advisory services to help visitors understand the market, invest, and evaluate properties in a simple and easy way."
+      },
+      {
+        "question": "Does the website provide investment advice?",
+        "answer": "Yes, the website offers free initial content and advice to help you make informed decisions regarding real estate investment and buying or selling properties."
+      },
+      {
+        "question": "How can I contact the website team?",
+        "answer": "You can contact us through the 'Contact Us' page or via email and phone number provided at the bottom of the website."
+      },
+      {
+        "question": "Does the website provide real estate market reports?",
+        "answer": "Yes, the website provides general information and analysis about the real estate market, such as property prices in certain areas, types of properties, and general advice for investors."
+      },
+      {
+        "question": "Does the website provide property valuation services?",
+        "answer": "The website provides information and tips on property valuation, and you can contact our experts for detailed consultations according to your case."
+      },
+      {
+        "question": "Is there a fee for using the website?",
+        "answer": "Browsing the website and using its content is completely free. Some private consultancy services may have specific fees, which will be clarified upon request."
+      },
+      {
+        "question": "Does the website cover all areas?",
+        "answer": "Yes, the website provides general information about most areas, focusing on major cities and vital regions, with the possibility of continuously updating content."
+      },
+      {
+        "question": "Can I get a free consultation?",
+        "answer": "Yes, our team offers free initial consultations to help you understand the market and make confident real estate decisions."
+      },
+      {
+        "question": "Is the information on the website reliable?",
+        "answer": "Yes, information is collected from reliable sources and real estate experts to ensure its accuracy and usefulness for visitors."
+      },
+      {
+        "question": "Can I subscribe to updates and news?",
+        "answer": "Yes, you can subscribe to the website newsletter to receive the latest news, analyses, and real estate tips directly in your inbox."
+      },
+      {
+        "question": "Does the website provide educational content about real estate?",
+        "answer": "Yes, the website includes articles and tutorials that help visitors understand the real estate market, basic terms, and investment strategies."
+      },
+      {
+        "question": "How do I start using the website correctly?",
+        "answer": "You can freely browse the site, read articles, follow tips, and contact our team if you need consultations or additional information."
+      }
+    ]
+  },
+  "buy_and_sell": {
+  "hero_alt": "Real Estate Buying and Selling",
+  "hero_title": "Real Estate Buying, Selling, and Marketing",
+  "hero_description": "We provide a comprehensive real estate experience with professionalism and precision in every step. Whether you are looking to sell your property at the best price, buy your dream home, or market your project, we are here to help you achieve your goals quickly and easily. We rely on modern marketing strategies and accurate market analysis to ensure your property reaches the target audience and achieves the best results.",
+  "contact_btn": "Contact Us",
+  "features": {
+    "1": { "title": "Property Selling", "description": "We help you sell your property quickly and at the best price through professional marketing and accurate market analysis." },
+    "2": { "title": "Property Buying", "description": "We guide you to choose the right property according to your needs and budget with safe and guaranteed transactions." },
+    "3": { "title": "Real Estate Marketing", "description": "We use the latest digital marketing tools and special offers to increase sales opportunities and attract potential clients." },
+    "4": { "title": "Market Analysis", "description": "We provide accurate analyses to help you make smart investment decisions based on up-to-date data." }
+  },
+  "steps_title": "Our Steps Towards a Successful Deal",
+  "steps": {
+    "1": "Accurate property evaluation to determine the appropriate market value.",
+    "2": "Launching a customized marketing plan to reach the largest number of clients.",
+    "3": "Following up inquiries and negotiating on your behalf to ensure the best terms.",
+    "4": "Completing the deal and documenting it safely and transparently."
+  },
+  "banner_title": "Do you want to buy or sell a property with confidence and speed?",
+  "banner_description": "Contact us now and let our expert team achieve the best results for you with minimal effort."
+},
+"navbar": {
+  "offers": "Our Offers",
+  "home": "Home",
+  "services": "Services",
+  "contact": "Contact",
+  "faq": "FAQ",
+  "languages": "Languages",
+  "arabic": "Arabic",
+  "english": "English"
+},
+"cloud_storage": {
+  "hero_alt": "Cloud Storage",
+  "hero_title": "Cloud Storage for Contracts",
+  "hero_description": "We provide the ability to store your contracts and documents electronically on the cloud securely, ensuring privacy and easy access anytime, anywhere. Our goal is to protect your documents and simplify their management without the need for paper copies. This service is suitable for all clients who want to keep contracts digitally in a safe and reliable way.",
+  "contact_btn": "Contact Us",
+  "features": {
+    "1": { "title": "Secure Cloud Storage", "description": "Store all contracts and documents electronically with easy access." },
+    "2": { "title": "Safety & Privacy", "description": "Protect your data and documents using the latest digital encryption technologies." },
+    "3": { "title": "Easy Access & Management", "description": "Organize contracts and files neatly with search and quick access." },
+    "4": { "title": "Access Anytime", "description": "Manage and track contracts from anywhere, at any time, without geographic restrictions." }
+  },
+  "steps_title": "Steps to Use Cloud Storage",
+  "steps": {
+    "1": "Upload contracts or documents to the cloud.",
+    "2": "Store documents securely with encryption to protect privacy.",
+    "3": "Manage and organize contracts for quick access when needed.",
+    "4": "Access contracts anytime and anywhere easily and quickly."
+  },
+  "banner_title": "Do you want to securely store your contracts in the cloud?",
+  "banner_description": "Contact us today and enjoy cloud storage services for your contracts safely and securely, with guaranteed data protection and privacy."
+},
+"construction": {
+  "hero_alt": "Construction",
+  "hero_title": "Construction Services",
+  "hero_description": "We provide comprehensive contracting services for all residential and commercial projects, adhering to deadlines and high-quality standards. Our team is highly experienced in managing and executing projects from start to finish. Our goal is to deliver reliable construction work according to the highest engineering standards.",
+  "contact_btn": "Contact Us",
+  "features": {
+    "1": { "title": "Construction Execution", "description": "Carry out all construction works with the highest quality according to plans and specifications." },
+    "2": { "title": "Residential & Commercial Projects", "description": "Execute residential and commercial projects using the latest contracting methods and techniques." },
+    "3": { "title": "Project Management", "description": "Monitor all project stages to ensure quality and adherence to the schedule." },
+    "4": { "title": "Comprehensive Solutions", "description": "Provide full contracting solutions to meet all project requirements." }
+  },
+  "steps_title": "Project Implementation Steps",
+  "steps": {
+    "1": "Study the project and plan the initial phases before starting execution.",
+    "2": "Execute the main and structural works of the project with precision and high quality.",
+    "3": "Monitor final works and finishes while ensuring quality and efficiency.",
+    "4": "Final project handover after verifying compliance with all specifications."
+  },
+  "banner_title": "Do you want to execute your project with the highest quality?",
+  "banner_description": "Contact us today and let our experts handle all stages of contracting with precision and professionalism, ensuring outstanding results and a smooth experience from start to finish."
+},
+"contract": {
+  "hero_alt": "Contract Documentation",
+  "hero_title": "Contract Documentation & Property Registration",
+  "hero_description": "We provide a professional service for documenting your contracts and registering properties quickly and securely, with full legal protection and support throughout the process.",
+  "contact_btn": "Contact Us",
+  "features": {
+    "1": { "title": "Official Documentation", "description": "Official procedures for all contracts to ensure their validity and legality." },
+    "2": { "title": "Rights Protection", "description": "We ensure protection of all parties and verify the accuracy of legal information." },
+    "3": { "title": "Fast Procedures", "description": "Complete all procedures quickly with accuracy and professionalism." },
+    "4": { "title": "Full Support", "description": "We provide complete support from start until contract delivery and property registration." }
+  },
+  "steps_title": "Service Steps",
+  "steps": {
+    "1": "Submit a copy of the contract and property details for registration.",
+    "2": "Review data, verify accuracy, and complete required documents.",
+    "3": "Finalize the documentation and register the property officially.",
+    "4": "Deliver documents to the client with necessary explanations to ensure their rights."
+  },
+  "banner_title": "Do you want to document your contracts and register your property now?",
+  "banner_description": "Contact us and get a fast, precise, and reliable service with full support from our specialized team."
+},
+"econtract": {
+  "hero": {
+    "title": "Remote E-Contracting",
+    "desc": "We provide you with the ability to sign contracts electronically with full security and speed, without the need for physical presence.\nEnsuring the validity of signatures and legally storing documents.\nOur goal is to simplify the contracting process and provide a smooth and reliable experience for all clients.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Electronic Contract Signing", "desc": "Complete contracts digitally in a secure and legal way without the need for printing or manual signing." },
+    "2": { "title": "Remote Access", "desc": "Sign and manage contracts from anywhere at any time using digital devices." },
+    "3": { "title": "Security & Privacy", "desc": "Protect your data and documents using the highest standards of security and digital encryption." },
+    "4": { "title": "Time & Effort Saving", "desc": "Save time and effort with fast and easy electronic contract signing without the need to travel." }
+  },
+  "steps_title": "E-Contracting Steps",
+  "steps": {
+    "1": "Prepare the contract and review legal terms.",
+    "2": "Send the contract electronically to the other party for review and signing.",
+    "3": "Sign contracts electronically with identity verification of the parties.",
+    "4": "Save the contract securely on the cloud with future access available."
+  },
+  "contact": {
+    "title": "Want to sign your contracts easily and safely?",
+    "desc": "Contact us today and let our experts handle all stages of remote e-contracting, ensuring a safe, fast, and reliable experience.",
+    "btn": "Contact Us"
+  }
+},
+"engineering_planning": {
+  "hero": {
+    "title": "Engineering Planning",
+    "desc": "We provide comprehensive engineering planning services for real estate and residential projects, with precise designs to meet client needs according to modern engineering standards.\nOur team ensures follow-up at every stage from initial study to execution of the designs.\nOur goal is to deliver innovative and accurate engineering solutions to facilitate your projects and achieve the best results.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Design Plans", "desc": "Prepare accurate engineering plans that comply with all technical requirements." },
+    "2": { "title": "Space Estimation", "desc": "Accurately calculate spaces to facilitate project design according to modern standards." },
+    "3": { "title": "Project Management", "desc": "Monitor planning and implementation stages to ensure quality and deadlines are met." },
+    "4": { "title": "Integrated Solutions", "desc": "Provide integrated engineering solutions suitable for residential and commercial projects." }
+  },
+  "steps_title": "Engineering Planning Steps",
+  "steps": {
+    "1": "Collect initial information and project requirements from the client.",
+    "2": "Prepare engineering plans and detailed project studies.",
+    "3": "Review designs with the client to ensure compliance with project requirements.",
+    "4": "Deliver final solutions and the final execution designs."
+  },
+  "contact": {
+    "title": "Want professional engineering planning for your project?",
+    "desc": "Contact us today and let our experts handle all planning stages accurately and professionally, ensuring high-quality results and a smooth experience from start to finish.",
+    "btn": "Contact Us"
+  }
+},
+"offers": {
+  "no_properties": "No properties available at the moment",
+  "follow_soon": "Follow us soon to discover the latest offers"
+},
+"property_evaluation": {
+  "hero": {
+    "title": "Property Evaluation",
+    "desc": "We provide accurate and professional evaluation services using the latest real estate analysis methods. We study all factors affecting the property's market value, such as location, area, finishing, and age. Our goal is to help clients make the right financial and investment decisions, whether for selling, buying, financing, or investing.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Professional Evaluation", "desc": "We provide precise and certified evaluation reports that clearly show the true value of the property." },
+    "2": { "title": "Market Analysis", "desc": "We analyze local and global market trends to estimate prices accurately and keep up with real estate changes." },
+    "3": { "title": "Reliable Reports", "desc": "Our reports are certified by official entities and assist clients in banking or financing transactions." },
+    "4": { "title": "Comprehensive for All Properties", "desc": "We provide services for all types of properties: residential, commercial, investment, and land." }
+  },
+  "steps_title": "Property Evaluation Steps",
+  "steps": {
+    "1": "Receive the request and determine the property type and purpose of the evaluation.",
+    "2": "Visit the property on-site and collect all data and specifications.",
+    "3": "Analyze market comparisons and estimate the accurate market value.",
+    "4": "Provide an official evaluation report with precise and clear results."
+  },
+  "contact": {
+    "title": "Want to know the true value of your property?",
+    "desc": "Contact us now to get a professional and certified evaluation that helps you make the best decision whether for selling, buying, or financing.",
+    "btn": "Contact Us"
+  }
+},
+"property_management": {
+  "hero": {
+    "title": "Professional Property Management",
+    "desc": "We manage your property entirely to ensure the best return with minimal effort, carefully monitoring all details. Our expert team handles routine maintenance, tenant management, payment tracking, and market analysis. We provide detailed performance reports and continuously strive to improve returns and increase property value in the long term. We also offer customized consultations to help you make the best decisions regarding your property in a professional and secure manner.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Maintenance & Repairs", "desc": "We monitor routine maintenance and quickly fix issues to ensure the property's safety." },
+    "2": { "title": "Tenant Management", "desc": "We manage contracts and facilitate communication with tenants to maintain their satisfaction." },
+    "3": { "title": "Maximizing Returns", "desc": "We analyze the market and determine the best pricing strategies to achieve the highest return." },
+    "4": { "title": "Detailed Reports", "desc": "We provide regular reports on property performance, challenges, and opportunities for better control." }
+  },
+  "steps_title": "How We Manage Your Property",
+  "steps": {
+    "1": "Evaluate the property and determine the appropriate management plan",
+    "2": "Market the property and rent units quickly and efficiently",
+    "3": "Manage contracts, tenants, and follow up on payments",
+    "4": "Provide regular reports and improve performance to ensure maximum returns"
+  },
+  "contact": {
+    "title": "Want to manage your property in the best possible way?",
+    "desc": "Contact us today and let our experts handle everything professionally and comfortably for you.",
+    "btn": "Contact Us"
+  }
+},
+"real_estate_consulting": {
+  "hero": {
+    "title": "Professional Real Estate Consulting",
+    "desc": "We provide real estate consulting based on precise market analysis and extensive experience, helping you make the right investment decisions and achieve maximum returns. Whether you plan to buy, sell, invest, or develop, our consultants provide a clear vision and full support at every stage to ensure confidence and success at every step.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Customized Consulting", "desc": "We provide precise analyses tailored to your real estate goals and future investment plans." },
+    "2": { "title": "Market Analysis", "desc": "We rely on updated data and field studies to evaluate market trends and investment opportunities." },
+    "3": { "title": "Trusted Recommendations", "desc": "We provide practical recommendations based on comprehensive analysis and real industry experience." },
+    "4": { "title": "Strategic Vision", "desc": "We help you develop a long-term plan to achieve stability and growth in your real estate investments." }
+  },
+  "steps_title": "How We Provide Our Consulting",
+  "steps": {
+    "1": "Understanding your real estate goals and needs accurately.",
+    "2": "Analyzing market data and identifying optimal opportunities for you.",
+    "3": "Providing a clear action plan and well-studied options for investment or purchase.",
+    "4": "Following up on implementation and providing continuous support to achieve the best results."
+  },
+  "contact": {
+    "title": "Need smart real estate consulting?",
+    "desc": "Contact us today for professional consulting to help you make successful and confident real estate decisions.",
+    "btn": "Contact Us"
+  }
+},
+"real_estate_investment": {
+  "hero": {
+    "title": "Real Estate Investment & Financing",
+    "desc": "We provide comprehensive investment and financing solutions in the real estate world, combining safety with high returns. Our specialized team helps you select promising real estate projects, analyze risks and returns accurately for a successful and sustainable investment. We also offer flexible financing programs suitable for individuals and investors, enabling you to achieve your real estate goals with ease and confidence.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Guaranteed Investment Opportunities", "desc": "We help you discover the best real estate projects with high returns and low risks for a stable investment." },
+    "2": { "title": "Accurate Investment Analysis", "desc": "We provide comprehensive analytical studies of the market and projects to assess profit opportunities before making any investment decision." },
+    "3": { "title": "Flexible Financing Solutions", "desc": "We offer financing services that suit your needs whether you are a small investor or a company seeking real estate expansion." },
+    "4": { "title": "Effective Risk Management", "desc": "We use precise methods to assess and distribute risks, balancing safety and returns in every investment." }
+  },
+  "steps_title": "Steps for Successful Investment",
+  "steps": {
+    "1": "Study your financial goals and determine the suitable type of investment for you.",
+    "2": "Analyze real estate projects and select the most suitable in terms of returns and risks.",
+    "3": "Provide a comprehensive financing plan that suits your capabilities and objectives.",
+    "4": "Monitor performance and provide regular reports to ensure optimal results."
+  },
+  "contact": {
+    "title": "Want a successful investment and secure financing?",
+    "desc": "Contact us now for a free consultation from our experts to start your journey in real estate investment with confidence and success.",
+    "btn": "Contact Us"
+  }
+},
+"survey": {
+  "hero": {
+    "title": "Survey & Location Services",
+    "desc": "We provide high-precision surveying and location services using the latest measurement devices and geospatial technologies. We help you accurately define property boundaries and plan sites before sale, construction, or investment. Our team of specialized engineers ensures reliable results and certified reports according to local and international standards.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Accurate Measurements", "desc": "We use advanced surveying devices such as GPS and Total Station to ensure the highest level of accuracy in distance and boundary measurements." },
+    "2": { "title": "Geographical Positioning", "desc": "We provide precise maps showing the property location and boundaries using GIS technologies." },
+    "3": { "title": "Advanced Technologies", "desc": "We rely on the latest software and devices to provide accurate data supporting planning and major real estate projects." },
+    "4": { "title": "Land Planning", "desc": "We prepare topographic plans and define areas to facilitate construction, investment, or real estate subdivision." }
+  },
+  "steps_title": "Service Implementation Steps",
+  "steps": {
+    "1": "Receive the request and determine the type and purpose of the survey.",
+    "2": "Send the survey team to the site to conduct precise field measurements.",
+    "3": "Analyze data and map it using specialized engineering software.",
+    "4": "Deliver the final report and certified maps to the client."
+  },
+  "contact": {
+    "title": "Need precise surveying services for your property?",
+    "desc": "Contact us now for a professional service to define your property’s location and boundaries with high accuracy, ensuring peace of mind and fully reliable results.",
+    "btn": "Contact Us"
+  }
+},
+"dispute": {
+  "hero": {
+    "title": "Real Estate Arbitration & Dispute Resolution",
+    "desc": "We provide professional real estate arbitration and dispute resolution services ensuring fairness and speed in handling conflicts between parties. Our team of legal experts and consultants seeks to settle disputes fairly and transparently, away from lengthy court procedures. We maintain full confidentiality and provide a secure legal environment to protect the rights of all parties.",
+    "btn": "Contact Us"
+  },
+  "features": {
+    "1": { "title": "Specialized Legal Arbitration", "desc": "We rely on certified arbitrators with extensive experience in local and international real estate laws." },
+    "2": { "title": "Fair & Neutral Solutions", "desc": "We provide a neutral legal environment that ensures the rights of all parties and maintains justice in rulings." },
+    "3": { "title": "Amicable Dispute Settlement", "desc": "We assist parties in reaching amicable settlements that ensure the continuity of positive commercial and real estate relationships." },
+    "4": { "title": "Legal Documentation & Agreements", "desc": "We supervise drafting and documenting agreements to ensure legal execution in accordance with official regulations." }
+  },
+  "steps_title": "Our Steps in Dispute Resolution",
+  "steps": {
+    "1": "Receive dispute details and analyze the legal position accurately.",
+    "2": "Communicate with all parties to explore amicable settlement options if possible.",
+    "3": "Initiate arbitration procedures through specialized and neutral legal committees.",
+    "4": "Issue a binding arbitration decision ensuring fairness and transparency for both parties."
+  },
+  "contact": {
+    "title": "Facing a real estate dispute and need a fast and secure solution?",
+    "desc": "Contact us now to get a legal consultation from our experts, and let us help you resolve the dispute with maximum professionalism and confidentiality.",
+    "btn": "Contact Us"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+  
+}
+
+ 
+
+
