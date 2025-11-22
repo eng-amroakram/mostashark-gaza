@@ -27,12 +27,6 @@ import Construction from './Components/ConstructionServices/Construction';
 import EContract from './Components/EContractServices/EContract';
 import CloudStorage from './Components/CloudStorageServices/CloudStorage';
 import OffersPage from './Components/OffersPage/OffersPage';
-
-
-
-
-
-
 const Home =()=>{
   return(
     <>
