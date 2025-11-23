@@ -8,8 +8,6 @@ import ServicesSection from './Components/ServicesSection/ServicesSection'
 import NavbarSection from './Components/NavbarSection/NavbarSection'
 import FaqSection from './Components/FaqSection/FaqSection';
 import ContactPage from './Components/ContactPage/ContactPage';
-
-
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import GazaGallery from './Components/GazaGallery/GazaGallery';
@@ -27,6 +25,10 @@ import Construction from './Components/ConstructionServices/Construction';
 import EContract from './Components/EContractServices/EContract';
 import CloudStorage from './Components/CloudStorageServices/CloudStorage';
 import OffersPage from './Components/OffersPage/OffersPage';
+
+
+
+
 const Home =()=>{
   return(
     <>
